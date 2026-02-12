@@ -1,1 +1,2 @@
-Project Mission: Develop an advanced team-based version control system.
+Project Mission: Build and develop an advanced collaborative team-based version control system.
+
